@@ -1,2 +1,3 @@
-# raddi-builds-windows
-raddi.net: ready to download and use executables, and installers
+# RADDI: *Windows builds*
+
+TBD: Here will be dragons. And also ready to download and use executables.
