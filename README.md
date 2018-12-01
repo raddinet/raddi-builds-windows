@@ -12,8 +12,8 @@ This repository follows structure: /architecture/build/executable
 
 * **release**
   - small executables, need libraries from https://github.com/raddinet/raddi-redist-windows
-  - lower memory usage as the DLLs and MSVCRT are shared in memory
-  - allows replacing provided DLLs with custom built or official ones if you don't trust those provided above
+  - lower disk/memory usage as the DLLs and MSVCRT are shared both on disk and in memory
+  - allows for replacing/upgrading DLLs with custom built or official ones if you don't trust those provided above
   - Windows Vista or newer is required
 
 * **portable**
