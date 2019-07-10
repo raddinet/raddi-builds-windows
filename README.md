@@ -6,7 +6,6 @@ This repository follows structure: /architecture/build/executable
 
 * **x86-32** - for 32-bit Windows, uses slighly less RAM; will run on any Windows PC (x64/arm64)
 * **x86-64** - for 64-bit Windows, **recommended**
-* **arm-32** - *TBD: for AArch32 devices running jail-broken 32-bit Windows RT - not yet available*
 * **arm-64** - for AArch64 devices running 64-bit Windows 10 for ARM
 
 ## Builds
