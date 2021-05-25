@@ -31,6 +31,7 @@ Generally **Windows XP** (5.1 for x86-32, 5.2 for x86-64) or later is required w
 
 * Windows Vista (Server 2008) or newer is required if the *release* build is used with liblzma/libsodium DLLs obtained from official or other sources (thus have unpatched minimal OS version numbers, more in [raddi-redist-windows](https://github.com/raddinet/raddi-redist-windows) repository).
 * Windows 10 (any build beginning with 1507/2015 LTSB) is required for AArch64 (arm-64) architecture
+   - **TBD** fully updated version (22H1?) might be required on ARM64 to run Win32 GUI client due to SQLite version
 
 ## Installer
 
